@@ -1,0 +1,1 @@
+Create a new folder in the same directory as the Release folder of the project you want to release. Place the ToolMedia folder and .exe file of the ReleaseGame in the new folder. Finally, configure the ToolMedia/Config/GameStringConfig.txt file.
